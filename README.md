@@ -22,7 +22,11 @@ rank = np.linalg.matrix_rank(A)
 print(rank)
 ```
 ## Output:
-![Uploading Screenshot 2026-05-31 160433.png…]()
+.<img width="1920" height="1080" alt="Screenshot 2026-05-31 160433" src="https://github.com/user-attachments/assets/9667f62e-416b-46a5-9a3b-ee3d63585937" />
+
+
+
+
 
 
 ## Result:
