@@ -22,7 +22,8 @@ rank = np.linalg.matrix_rank(A)
 print(rank)
 ```
 ## Output:
-<img width="1920" height="1080" alt="Exp 2 AI" src="https://github.com/user-attachments/assets/0b02eff0-25d5-42a5-b873-c7c29397c2a9" />
+![Uploading Screenshot 2026-05-31 160433.png…]()
+
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
